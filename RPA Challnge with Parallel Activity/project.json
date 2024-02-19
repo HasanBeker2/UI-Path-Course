@@ -1,5 +1,5 @@
 {
-  "name": "Control_Flow",
+  "name": "RPA Challnge with Parallel Activity",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.10.7.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "673096c8-5346-459d-9fc7-6bca98f7d4b2",
+      "uniqueId": "9098adf3-fab2-4926-9c0b-5ec71de89fa5",
       "input": [],
       "output": []
     }

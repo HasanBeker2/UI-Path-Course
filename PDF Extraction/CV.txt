@@ -1,0 +1,140 @@
++49 176 220 620 94
+Hasan Beker hasanbeker22@gmail.com
+01.01.1984
+Datenanalyst / Mozartstraße 13, 35423 Lich, Hessen
+Datenwissenschaftler https://www.linkedin.com/in/hasan-beker
+https://github.com/HasanBeker2
+https://www.xing.com/profile/Hasan_Beker
+
+Experte im Einsatz von statistischer Analyse und maschinellen Lernverfahren zur
+Umwandlung von Daten in handlungsrelevante Erkenntnisse, die Geschäftswachstum und
+Innovation vorantreiben.
+Verfügt über umfassende Erfahrung in Java-Programmierung sowie ausgeprägte Kenntnisse
+in relationalen Datenbanksystemen, einschließlich Microsoft SQL Server und MySQL.
+Versiert in Python, R, SQL und verschiedenen Bibliotheken für maschinelles Lernen   sowie
+Datenvisualisierungswerkzeugen, mit einer soliden Grundlage in prädiktiver Modellierung,
+Datenanalyse und Algorithmenentwicklung.
+Geschickt in der Zusammenarbeit mit Teams, um komplexe Probleme zu lösen und
+datengesteuerte Lösungen zu liefern, die Entscheidungsfindung und betriebliche Effizienz
+verbessern.
+
+Ausbildung Kompetenzen
+
+IBM Data Science Professional Aug 2023 - Jan 2024
+Zertifikat
+IBM - Online
+IBM Data Analyst Zertifikat Jun 2023 - Nov 2023
+IBM - Online
+Data Analytics Professional Mär 2023 - Aug 2023
+Zertifikat
+Google - Online
+React Native Entwickler Dez 2022 - Mai 2023
+Zertifikat
+Meta - Online
+Zertifikat für Feb 2020 - Sep 2020
+Softwareentwicklung und
+Testengineering,
+CYDEO - Tysons, Virginia, USA
+Master of Science in Jun 2013 - Jun 2015
+Modellierung, Virtuellen
+Umgebungen und Simulation
+NPS - Monterey, Kalifornien, USA
+Bachelor-Abschluss in Aug 2002 - Aug 2006
+Systemtechnik
+Türkische Militärakademie -
+Ankara, Türkei
+Programmiersprachen: Python, Java, JavaScript
+Python-Bibliotheken: Pandas, Numpy, Matplotlib,
+Seaborn, Plotly, Scikit-Learn, Folium, Wordcloud
+Frameworks für maschinelles Lernen: TensorFlow,
+PyTorch, OpenCV
+Datenanalyse Tools: R, SQL, Excel
+Datenbanken: MySQL, Microsoft SQL Server, BigQuery
+Visualisierung Tools: Tableau, Power BI, Cognos
+Webentwicklung Tools: React, Wordpress
+Web Scraping Tools: Selenium, Beautiful Soup
+Design Tools: Figma, Adobe Photoshop, Canva
+Projektmethodologien: Agile, Waterfall
+Kollaboration Tools: Jira, Trello, GitHub
+Generative KI Tools: ChatGPT, Dalle-3, Midjourney
+Cloud-Dienst: Microsoft Azure
+Sprachkenntnisse
+Englisch | Fließend in Wort und Schrift
+Deutsch | Fortgeschritten
+Türkisch | Muttersprachler
+Hobbies
+Skifahren
+Kochen
+Roboter bauen mit ArduinoBerufserfahrung
+
+Business analyst und E-Commerce AI-Strategist (Praktikum)
+gowoll.de GMBH
+Entwicklung eines KI-Chatbots für den E-Commerce zur Verbesserung der
+Kundenkommunikation, Einsatz fortschrittlicher natürlicher Sprachverarbeitung für
+effiziente, personalisierte Unterstützung.
+Analyse von Verkaufs-, Kundenverhaltens- und Markttrenddaten, um
+handlungsrelevante Einblicke zu gewinnen und informierte
+Geschäftsentscheidungen zu unterstützen.
+Gießen, Hessen, Deutschland
+Nov 2023 - Aktuell
+
+Umzug nach Deutschland
+Deutschkurse und ehrenamtliche Tätigkeiten
+Ehrenamtlicher Tutor für Robotik und Programmierung
+Freiberufler
+Erteilte sowohl Online- als auch Vor-Ort-Unterricht in Robotik und Programmierung.
+Verwendete Plattformen wie Scratch, code.org und Arduino zu Bildungszwecken.
+Lich, Hessen, Deutschland
+Sep 2020 - Nov 2023
+Athen, Griechenland
+Okt 2019 - Sep 2020
+
+Spezialist für Social-Media-Marketing
+Freiberufler
+Förderte das Umsatzwachstum von 20 Unternehmen durch Facebook-Anzeigen
+und wirkungsvolle Videoproduktionen.
+Nutze Datenanalyse, um Kampagnen zu optimieren und die Sichtbarkeit in sozialen
+Medien zu erhöhen.
+Ankara, Türkei
+Jan 2019 - Sep 2019
+
+Digital Marketing Analyst (Remote)
+buy4store.com INC
+Einsatz von Facebook Analytics und Google Analytics Tools für das
+Kampagnenmanagement.
+Erzielte innerhalb von 6 Monaten eine Umsatzsteigerung von 8% mit diesen
+Analysetools.
+Nutze Datenanalysen, um wertvolle Einblicke in Verkaufstrends und
+Kundenverhalten zu gewinnen.
+Los Angeles, Kalifornien, USA
+Jun 2018 - Jan 2019
+
+Digital Marketing Spezialist
+Beta Translation and Consultancy
+Spezialisiert auf die Erstellung ansprechender WordPress-Websites.
+Einsatz von Google Analytics für aufschlussreiche Datenanalysen.
+Identifizierte Übersetzungsaufträge durch datengesteuerte Strategien.
+Ankara, Türkei
+Mai 2017 - Mai 2018
+
+Militäroffizier und Systemtechnik
+Nationales Verteidigungsministerium
+Türkei
+Jun 2006 - Ap 2017
+
+Freiwilligenarbeit
+
+In den letzten Jahr habe ich ehrenamtlich Robotik-Programmierkurse für eine Gruppe von Kindern im
+Alter von sechs bis vierzehn Jahren in einem Verein in der Stadt Lich gegeben. Einen Artikel über mich,
+der in der Zeitung 'Gießener Allgemeine' erschienen ist, können Sie unter folgender Adresse einsehen:
+https://www.giessener-allgemeine.de/kreis-giessen/lich-ort848773/kindgerechtebegegnung-mit-
+der-robotik-92115773.html
+
+Veröffentlichungen
+
+Das Thema meiner Masterarbeit lautet 'Simulation von Missionsbefehlen für Planung und Analyse' im Bereich
+Modellierung, Virtuelle Umgebungen und Simulation (Informatik). Die Arbeit ist unter dem Link
+http://hdl.handle.net/10945/45813 verfügbar. Ziel der Arbeit war die Entwicklung einer Simulationsanwendung
+für Missionsplanung unter Verwendung von Java, Excel und der R-App für Datenanalysen.
+Ziel: Optimierung der Missionsplanung durch Priorisierung kritischer Faktoren zur Steigerung der Effizienz in
+Bezug auf Zeit und Ressourcen.

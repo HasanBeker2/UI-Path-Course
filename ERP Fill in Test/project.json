@@ -1,14 +1,10 @@
 {
-  "name": "Invoice Entry",
+  "name": "ERP Fill in Test",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.DocumentUnderstanding.ML.Activities": "[1.24.0]",
     "UiPath.Excel.Activities": "[2.11.4]",
-    "UiPath.IntelligentOCR.Activities": "[6.14.1]",
-    "UiPath.Mail.Activities": "[1.22.1]",
-    "UiPath.OmniPage.Activities": "[1.17.0]",
-    "UiPath.PDF.Activities": "[3.16.0]",
+    "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[21.10.5]",
     "UiPath.UIAutomation.Activities": "[21.10.6]"
   },
@@ -44,13 +40,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "a2f909ca-405e-46d7-b2e6-1fd6ffcf7590",
+      "uniqueId": "fc55a0da-7e17-4501-ba50-e325d48ad60c",
       "input": [],
       "output": []
     }
